@@ -6,10 +6,10 @@
         "psr-0": { "ApiTranslator": "src/" }
     },
     "require": {
-        "symfony/console": "2.1.*",
-        "symfony/class-loader": "2.1.*",
-        "symfony/finder": "2.1.*",
-        "symfony/yaml": "2.1.*",
+        "symfony/console": "2.*",
+        "symfony/class-loader": "2.*",
+        "symfony/finder": "2.*",
+        "symfony/yaml": "2.*",
         "comensee/php-google-translate": "dev-master"
 
 
